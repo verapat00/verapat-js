@@ -1,2 +1,2 @@
-# verapat-js
+# verapat
 Created with CodeSandbox
